@@ -1,1 +1,2 @@
-# aware_
+# AWARE
+Autism Wellness Assessment and Recognition Engine
